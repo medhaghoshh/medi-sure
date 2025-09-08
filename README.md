@@ -1,6 +1,6 @@
-# MediSure - Medicine Management App
+# MEDISURE - Medicine Management App
 
-## Project info
+## Project Info
 
 **URL**: https://lovable.dev/projects/e45b4174-c18b-4628-aece-9b585679bea3
 
